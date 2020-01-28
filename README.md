@@ -35,5 +35,5 @@ Executing Test.
 4. This will open and close browser for 3 times.
 5. All the outputs are prited on the console only.
 
-Suggestion:- Selection of drop down elements will become much simpler if "Select" tag is used.
+Suggestion:- Selection of drop down elements will become much simpler if "Select" tag is used during webpage development.
 
